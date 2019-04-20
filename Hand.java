@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
@@ -6,13 +5,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map.Entry;
 import java.util.PriorityQueue;
-import java.util.TreeMap;
-import java.util.TreeSet;
 
 /**
  * Represents a Hand of poker, with combination and values information included.
  * Implements @Comarable interface. 
  * The main purpose for this class is to represent a Hand and conveniently compare with other Hand objects. 
+ * 
  * @author Boting
  *
  */
