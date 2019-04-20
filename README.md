@@ -8,6 +8,8 @@ After the EOF is received from STDIN, it will output the total count of wins for
 
 ## Instruction to run demo
 Run the following command in unix terminal:
+
 $ javac HandSorter.java
+
 $ cat poker-hands.txt | java HandSorter
 
